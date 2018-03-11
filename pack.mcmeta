@@ -1,0 +1,15 @@
+{
+  "pack": {
+    "pack_format": 3,
+    "description": "CS:GO Resource Pack"
+  },
+
+  "meta": {
+    "pack_type": 2,
+    "pack_version": "1.0",
+    "game_version": "1.12",
+    "pack_resolution": "32x",
+    "description": "CS:GO Resource Pack",
+    "consists": "Sounds and Textures."
+  }
+}
